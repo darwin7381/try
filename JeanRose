@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>吳怡靜 大美女</title>
+</head>
+<body bgcolor="#99F3FA">
+  <h1>我是吳怡靜</h1>
+  <p>我來自台南安平ㄏㄏ</p>
+  <p>目前就讀政大</p>
+  <h2>我討厭吃豬肉</h2>
+
+
+  <p>其實我是貓ㄏㄏㄏ</p>
+  <img src="https://02varvara.files.wordpress.com/2012/09/00-fat-cat-01-0912.jpg" alt="">
+  <div>
+  	<p>下面這是我男朋友</p>
+  	<span>他叫良良</span>
+      <img src="http://www.kobe.idv.tw/baccarat/wp-content/uploads/2014/07/41.jpg" alt="">
+  	<span>他很Q吧哈哈</span>
+  <img src="http://album.udn.com/community/img/PSN_PHOTO/cherry8077/f_6710440_1.jpg" alt="">
+
+
+
+
+  <p></p>
+  <p></p>
+  </div>
+
+  <marquee behavior="" direction="">
+  <p>這是我們的合照ㄏㄏㄏㄏㄏ</p>
+  </marquee>
+  <marquee behavior="" direction="">
+  	<img src="http://doll.dyndns.biz/1024768/2.jpg" alt="">
+  </marquee>
+  	<p width="300">我們超級相愛的！！！！！！</p>
+</body>
+</html>
